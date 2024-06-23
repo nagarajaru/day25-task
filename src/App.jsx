@@ -1,4 +1,4 @@
-import React, { Component } from "react"; 
+import React, {Component} from "react"; 
 import "bootstrap/dist/css/bootstrap.css"; 
 import Container from "react-bootstrap/Container"; 
 import Row from "react-bootstrap/Row"; 
